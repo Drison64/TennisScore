@@ -1,0 +1,5 @@
+D:\RiderProjects\TennisUwU\TennisScore.Base\obj\Debug\netcoreapp3.1\TennisScore.Base.csproj.AssemblyReference.cache
+D:\RiderProjects\TennisUwU\TennisScore.Base\obj\Debug\netcoreapp3.1\TennisScore.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\TennisUwU\TennisScore.Base\obj\Debug\netcoreapp3.1\TennisScore.Base.AssemblyInfoInputs.cache
+D:\RiderProjects\TennisUwU\TennisScore.Base\obj\Debug\netcoreapp3.1\TennisScore.Base.AssemblyInfo.cs
+D:\RiderProjects\TennisUwU\TennisScore.Base\obj\Debug\netcoreapp3.1\TennisScore.Base.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+D:\RiderProjects\TennisUwU\TennisScore.Base\bin\Debug\netstandard2.1\resources\countries.json
+D:\RiderProjects\TennisUwU\TennisScore.Base\bin\Debug\netstandard2.1\TennisScore.Base.deps.json
+D:\RiderProjects\TennisUwU\TennisScore.Base\bin\Debug\netstandard2.1\TennisScore.Base.dll
+D:\RiderProjects\TennisUwU\TennisScore.Base\bin\Debug\netstandard2.1\TennisScore.Base.pdb
+D:\RiderProjects\TennisUwU\TennisScore.Base\obj\Debug\netstandard2.1\TennisScore.Base.csproj.AssemblyReference.cache
+D:\RiderProjects\TennisUwU\TennisScore.Base\obj\Debug\netstandard2.1\TennisScore.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\TennisUwU\TennisScore.Base\obj\Debug\netstandard2.1\TennisScore.Base.AssemblyInfoInputs.cache
+D:\RiderProjects\TennisUwU\TennisScore.Base\obj\Debug\netstandard2.1\TennisScore.Base.AssemblyInfo.cs
+D:\RiderProjects\TennisUwU\TennisScore.Base\obj\Debug\netstandard2.1\TennisScore.Base.csproj.CoreCompileInputs.cache
+D:\RiderProjects\TennisUwU\TennisScore.Base\obj\Debug\netstandard2.1\TennisScore.Base.dll
+D:\RiderProjects\TennisUwU\TennisScore.Base\obj\Debug\netstandard2.1\TennisScore.Base.pdb

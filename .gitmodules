@@ -1,0 +1,3 @@
+[submodule "TennisScore"]
+	path = TennisScore
+	url = https://github.com/ppy/osu-framework

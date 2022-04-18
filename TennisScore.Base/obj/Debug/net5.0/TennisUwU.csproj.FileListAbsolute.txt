@@ -1,0 +1,16 @@
+D:\RiderProjects\TennisUwU\TennisUwU\bin\Debug\net5.0\TennisUwU.exe
+D:\RiderProjects\TennisUwU\TennisUwU\bin\Debug\net5.0\TennisUwU.deps.json
+D:\RiderProjects\TennisUwU\TennisUwU\bin\Debug\net5.0\TennisUwU.runtimeconfig.json
+D:\RiderProjects\TennisUwU\TennisUwU\bin\Debug\net5.0\TennisUwU.runtimeconfig.dev.json
+D:\RiderProjects\TennisUwU\TennisUwU\bin\Debug\net5.0\TennisUwU.dll
+D:\RiderProjects\TennisUwU\TennisUwU\bin\Debug\net5.0\ref\TennisUwU.dll
+D:\RiderProjects\TennisUwU\TennisUwU\bin\Debug\net5.0\TennisUwU.pdb
+D:\RiderProjects\TennisUwU\TennisUwU\obj\Debug\net5.0\TennisUwU.csproj.AssemblyReference.cache
+D:\RiderProjects\TennisUwU\TennisUwU\obj\Debug\net5.0\TennisUwU.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\TennisUwU\TennisUwU\obj\Debug\net5.0\TennisUwU.AssemblyInfoInputs.cache
+D:\RiderProjects\TennisUwU\TennisUwU\obj\Debug\net5.0\TennisUwU.AssemblyInfo.cs
+D:\RiderProjects\TennisUwU\TennisUwU\obj\Debug\net5.0\TennisUwU.csproj.CoreCompileInputs.cache
+D:\RiderProjects\TennisUwU\TennisUwU\obj\Debug\net5.0\TennisUwU.dll
+D:\RiderProjects\TennisUwU\TennisUwU\obj\Debug\net5.0\ref\TennisUwU.dll
+D:\RiderProjects\TennisUwU\TennisUwU\obj\Debug\net5.0\TennisUwU.pdb
+D:\RiderProjects\TennisUwU\TennisUwU\obj\Debug\net5.0\TennisUwU.genruntimeconfig.cache
